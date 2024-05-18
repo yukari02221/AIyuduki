@@ -1,1 +1,1 @@
-# AIyuduki
+ChatGPTの返答をゆかりさんで出力するコード
